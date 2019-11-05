@@ -1,0 +1,23 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). This app will follow the MVC design pattern; use Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GPHenderson/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GPHenderson/burger/issues"
+  },
+  "homepage": "https://github.com/GPHenderson/burger#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
